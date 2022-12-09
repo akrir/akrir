@@ -1,0 +1,128 @@
+#EXTM3U
+#EXTINF: -1 tvg-chno="1", BeIn SPORT MAX 1
+#EXTGRP:arab
+https://playing.goforfreedomwme.net/live/beinsportsmax1ar/index.m3u8
+
+#EXTINF: -1 tvg-chno="2", BeIn SPORT MAX 2
+#EXTGRP:arab
+https://playing.whydontyoustreamwme.com/live/beinsportsmax2ar/index.m3u8
+
+#EXTINF: -1 tvg-chno="2", قناة العربي الكويتية 
+https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_1080p/chunks.m3u8?p=52&s=1670536883&e=1670623283&cf=1670623283&h=241e54f0994eba19957cad58c9c2ea59
+
+#EXTINF:SSC News
+https://ssc-news-ak.akamaized.net/out/v1/4af66d04e77349079c01c9bab46d8b28/index_8.m3u8
+
+#EXTINF:روتانا بلس 
+https://ssc-1-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
+
+#EXTINF:Nickelodeon 1
+https://siloh.pluto.tv/lilo/production/Nick/04/master_1.m3u8
+
+#EXTINF:Nickelodeon 2
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+
+#EXTINF:Nickelodeon 3
+https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
+
+#EXTINF:Nickelodeon 4
+https://siloh.pluto.tv/lilo/production/Nick/04/master_1.m3u8
+
+#EXTINF:Ten Live TV Egypt
+https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:قطر2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
+
+#EXTINF:Medi 1 tv maroc
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w620425191_b1528000_slar.m3u8
+
+#EXTINF:الريان
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan_source/chunks.m3u8
+
+#EXTINF:gulli
+https://ssc-1-ak.akamaized.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+
+#EXTINF:Rotana Kids
+https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+
+#EXTINF:الكأس الرياضية 5 
+https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/chunklist_b5128000_sleng.m3u8
+
+#EXTINF:sbc
+https://cllive.itworkscdn.net/sbclive/token=nva=1670557867~dirs=1~hash=0a53bc19d52dc0abd625f/sbc.smil/sbc_source_chunks_dvr.m3u8
+
+#EXTINF: الراى 
+https://media2.streambrothers.com:1936/8106/8106/chunklist.m3u8
+
+#EXTINF: تلفزيون لبنان
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
+
+#EXTINF:LBC 
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/eaf11f1dee71a76c8bd4ac4f55ce95ca.m3u8
+
+#EXTINF: مكملين
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8 
+
+#EXTINF: Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+
+#EXTINF: السعودية
+https://cllive.itworkscdn.net/ksa1live/token=nva=1670558486~dirs=1~hash=0a8afe0fd54de802eb49f/ksa1.smil/ksa1_source_chunks_dvr.m3u8
+
+#EXTINF:ام بي سي العراق
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+#EXTINF:ام بي سي 1
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
+
+#EXTINF:ام بي سي مصر 1
+https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+
+#EXTINF: ام بى سى مصر 2 
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+#EXTINF: ام بى سى دراما
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+
+#EXTINF: روتانا خليجية 
+https://shls-masr2-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
+
+#EXTINF: ناشيونال جيوغرافيك ابو ظبي
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:العربية الحدث   
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_1080p_chunks.m3u8
+
+#EXTINF: العربية
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiya_1080p_chunks.m3u8
+
+#EXTINF:سكاى نيوز العربية   
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+#EXTINF:الجزيرة 
+http://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+
+#EXTINF:كارتون نت وورك بالعربية
+https://shls-masr2-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
+
+#EXTINF:ماجد
+https://admdn5ta.cdn.mgmlcdn.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:سبيس تون
+https://shls-masr2-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
+
+#EXTINF: الوسط الليبية
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_1080p/chunks.m3u8
+
+
+
+#EXTINF:
+
+
+
+
+
+
+
