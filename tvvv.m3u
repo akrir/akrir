@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTGRP:arab
-https://playing.whydontyoustreamwme.com/live/beinsportsmax2ar/index.m3u8
-
-#EXTINF: -1 tvg-chno="2", قناة العربي الكويتية 
-https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_1080p/chunks.m3u8?p=52&s=1670536883&e=1670623283&cf=1670623283&h=241e54f0994eba19957cad58c9c2ea59
 
 #EXTINF:SSC News
 https://ssc-news-ak.akamaized.net/out/v1/4af66d04e77349079c01c9bab46d8b28/index_8.m3u8
